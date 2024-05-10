@@ -1,0 +1,28 @@
+-the script for loading a level made (THE E STANDS FOR ENIGMA)
+
+MAKING OBJECT
+
+name,double x,double y,double length, double height, int layer, String tag, int spriteID,int amountOfComponents,int argsCount$#
+
+NOTE: end with # if the iobject you are on is the last otherwise end an object with $
+NOTE: even if there are no components still put +0 for arg count
+
+SYNTAX 
+
+,end of int
+%end of string
+
+#end of file
+@not end of file
+
+^has parent (parent to be stated after
+$no parent
+
+TYPES
+
+int   : like java though you need to prefix positives with + and negatives with -, also end with , 
+double: just like int but in the components it will remove the first digit and use it to determine amount of decimal places
+String: normal just end with %
+
+COMPONENTS
+
